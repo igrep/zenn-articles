@@ -2,7 +2,7 @@
 title: "NixOSで最強のLinuxデスクトップを作ろう"
 emoji: "❄"
 type: "tech"
-topics: ["nixos", "nix", "linux", "入門", "dotfiles"]
+topics: ["nixos", "nix", "linux", "dotfiles"]
 published: true
 ---
 
@@ -1605,12 +1605,10 @@ _学校の共有スペース_
   - NixOSとTailscaleでマインクラフトサーバーを建てるTailscaleのブログ
   - インフラとしてのNixOS利用例
 - [HERPにおけるNix活用](https://blog.ryota-ka.me/posts/2022/10/08/how-we-use-nix-in-herp-inc)
-
   - 実際にNixを使っている会社の方のブログ
   - 非常にわかりやすい
 
 - 使用したパッケージなど
-
   - [NixOS/nix](https://github.com/NixOS/nix)
   - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)

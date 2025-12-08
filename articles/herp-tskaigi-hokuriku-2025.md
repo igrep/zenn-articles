@@ -3,7 +3,7 @@ title: "TSKaigi Hokuriku 2025 現地参加レポート"
 emoji: "✍️"
 type: "idea"
 topics: ["イベントレポート", "TypeScript", "TSKaigi"]
-published: false
+published: true
 publication_name: "herp_inc"
 ---
 
